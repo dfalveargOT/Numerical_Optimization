@@ -41,7 +41,7 @@ This course presents practical methods for formulating and solving linear and no
 
 ## Final Project
 
-The final project of the Numerical Optimization course was the development of an optimization algorithm to create a route in a graph structure. The route planning focused on cyclists, and the graph representation of Medellin, Colombia, used OpenStreet Maps. The problem is non-convex and was formulated as a binary optimization problem with flow conservation, minimizing the path distance and subject to custom constraints, such as visiting different destinations to find the best route while minimizing distance or terrain elevation.
+The final project of the Numerical Optimization course involved developing an optimization algorithm for route planning in a graph structure, specifically tailored for cyclists. The graph representation of Medellin, Colombia, was constructed using OpenStreetMap data. The problem, formulated as a non-convex binary optimization problem with flow conservation, aimed to minimize the path distance while satisfying custom constraints, such as visiting multiple destinations and optimizing for factors like distance and terrain elevation.
 
 <img src="assets/FinalProject.png" alt="" width="650"/>
 
