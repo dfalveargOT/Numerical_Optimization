@@ -55,12 +55,14 @@ This course presents practical methods for formulating and solving linear and no
   - Newton’s method with backtracking line search
   - Convergence behavior analysis
   - Optimization problem in high-dimensional space
+  <img src="assets/2_rosenbrock.png" alt="" width="300"/>
 
 ### 3. Nonlinear Least Squares and Inverse Problems [[PDF](projects/3_GaussNewton.pdf)]
   - Gauss-Newton method for NLLS
   - Ellipse fitting using NLLS
   - Cross-well tomography inverse problem
   - Regularization techniques for ill-conditioned problems
+  <img src="assets/3_ellipse.png" alt="" width="300"/>
 
 ### 4. Quasi-Newton Methods and Nonlinear Systems [[PDF](projects/4_QuasiNewton_Nonlinear_Equations.pdf)]
   - Implementation of BFGS method with backtracking line search
@@ -74,12 +76,19 @@ This course presents practical methods for formulating and solving linear and no
   - Linear optimization for a minimum-cost healthy snack problem
   - Physical interpretation of Lagrange multipliers
 
+  <img src="assets/5_solution_min.png" alt="" width="300"/>
+
 ### 6. KKT Conditions and Linear Programming [[PDF](projects/6_LinearProgramming_KKT.pdf)]
   - Non-negativity of Lagrange multipliers
   - Karush-Kuhn-Tucker (KKT) conditions verification
   - Center of polyhedron problem as an LP
   - Minimum-cost flow problem formulation and solution
   - Image completion problem using L2 roughness measure
+
+  <div style="display: flex; flex-direction: row;">
+  <img src="assets/6_img.png" alt="" width="300"/>
+  <img src="assets/6_img2.png" alt="" width="300"/>
+  </div>
 
 ### 7. Advanced Topics in Optimization - Non-Convex Optimization [[PDF](projects/7_QuadraticProgramming_Dual.pdf)]
   - Image reconstruction using total variation roughness
@@ -88,6 +97,8 @@ This course presents practical methods for formulating and solving linear and no
   - Dual problem derivation and solution for quadratic and linear problems
   - Piecewise-linear minimization problem and its dual formulation
 
+  <img src="assets/7_contact_problem.png" alt="" width="300"/>
+
 ### 8. Compressed Sensing and Classification [[PDF](projects/8_QuadraticProgamming_Pareto.pdf)]
   - Compressed sensing using  $L_2$  and  $L_1$  norms
   - Signal reconstruction from incomplete data
@@ -95,11 +106,18 @@ This course presents practical methods for formulating and solving linear and no
   - Hyperplane-based classification and separation
   - Dual formulation for classification problems
 
+  <div style="display: flex; flex-direction: row;">
+  <img src="assets/8_classification.png" alt="" width="300"/>
+  <img src="assets/8_classification2.png" alt="" width="300"/>
+  </div>
+
 ### 9. Portfolio Optimization and Interior Point Methods [[PDF](projects/9_InteriorPointMethods.pdf)]
   - Portfolio optimization using quadratic programming
   - Bi-objective optimization and Pareto optimality
   - Central path and barrier methods in optimization
   - Implementation of interior point methods for LP and QP
+
+  <img src="assets/9_DualGap.png" alt="" width="300"/>
 
 ### 10. Trust Region and Augmented Lagrangian Methods [[PDF](projects/10_TrustRegions_LevenbergMarquardt.pdf)]
   - Trust region methods for nonconvex optimization
@@ -107,6 +125,8 @@ This course presents practical methods for formulating and solving linear and no
   - Augmented Lagrangian method for constrained optimization
   - Planar disk contact problem as a quadratic optimization
   - Facility location problem involving transportation and fixed costs
+
+  <img src="assets/10_contourplot.png" alt="" width="300"/>
 
 
 ## Resources
