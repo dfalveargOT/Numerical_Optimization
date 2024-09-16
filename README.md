@@ -39,6 +39,11 @@ This course presents practical methods for formulating and solving linear and no
 - **Global Optimization**: Branch and bound framework 
 - **Large Scale Problems**: Modern first-order methods, inexact Newton methods 
 
+## Final Project
+
+
+
+
 ## Projects
 
 ### 1. Rosenbrock Function and Gradient Methods [[PDF](projects/1_Backtracking_LineSearch.pdf)]
@@ -86,8 +91,8 @@ This course presents practical methods for formulating and solving linear and no
   - Image completion problem using L2 roughness measure
 
   <div style="display: flex; flex-direction: row;">
-  <img src="assets/6_img.png" alt="" width="300"/>
-  <img src="assets/6_img2.png" alt="" width="300"/>
+  <img src="assets/6_img.png" alt="" width="400"/>
+  <img src="assets/6_img2.png" alt="" width="200"/>
   </div>
 
 ### 7. Advanced Topics in Optimization - Non-Convex Optimization [[PDF](projects/7_QuadraticProgramming_Dual.pdf)]
