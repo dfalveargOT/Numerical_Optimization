@@ -3,6 +3,8 @@
 ## Course Description
 This course presents practical methods for formulating and solving linear and nonlinear numerical optimization problems that arise in science, engineering, and business applications. The course covers both unconstrained and constrained problems, with an emphasis on algorithmic descriptions. A significant component of the course involves implementing solutions, where students develop code and use state-of-the-art numerical libraries to model and solve problems in machine learning, imaging, shape design, parameter identification, classification, financial planning, PDE-constrained optimization, and other areas.
 
+Professor George Turkiyyah
+
 <div style="display: flex; flex-direction: row;">
   <img src="assets/preliminar.png" alt="" width="300"/>
   <img src="assets/preliminar1.png" alt="" width="300"/>
